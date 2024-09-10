@@ -1,0 +1,49 @@
+{
+    "profesores": [
+        {
+            "nombre": "Sergio",
+            "apellido": "Garcia",
+            "edad": 30,
+            "materia": [
+                {
+                    "nombre": "nodejs desde cero"
+                },
+                {
+                    "nombre": "javascript desde cero"
+                },
+                {
+                    "nombre": "html desde cero"
+                }
+            ]
+        }
+    ],
+    "alumnos": [
+        {
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "promedio": 8.5
+        },
+        {
+            "nombre": "Maria",
+            "apellido": "Gomez",
+            "promedio": 9.5
+        }
+    ],
+    "cursos": [
+        {
+            "nombre": "nodejs desde cero",
+            "duracion": 40,
+            "dificultad": "medio"
+        },
+        {
+            "nombre": "javascript desde cero",
+            "duracion": 40,
+            "dificultad": "medio"
+        },
+        {
+            "nombre": "html desde cero",
+            "duracion": 40,
+            "dificultad": "medio"
+        }
+    ]
+}
